@@ -44,6 +44,7 @@ Table of Contents
 * [Hangouts Chat](https://developers.google.com/hangouts/chat/concepts/)
 
 ## Tools For Building Bots
+* [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for bot automation. Genuine fingerprints, MCP-native, DevTools protocol, SDKs for Python/JS.
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
